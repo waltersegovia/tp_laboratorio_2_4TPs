@@ -1,0 +1,45 @@
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\Entidades\obj\Debug\Entidades.pdb
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\bin\Debug\Entidades.dll
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\bin\Debug\Entidades.pdb
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\obj\Debug\Entidades.dll
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\Entidades\obj\Debug\Entidades.pdb
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\Entidades\bin\Debug\Entidades.dll
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\Entidades\bin\Debug\Entidades.pdb
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\Entidades\obj\Debug\Entidades.dll
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP1\Entidades\obj\Debug\Entidades.pdb

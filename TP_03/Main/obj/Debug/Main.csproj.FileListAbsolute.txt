@@ -1,0 +1,16 @@
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Main.exe.config
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Main.exe
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Main.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Archivos.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\ClasesAbstractas.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\ClasesInstanciables.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Excepciones.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Archivos.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\ClasesAbstractas.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\ClasesInstanciables.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\bin\Debug\Excepciones.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\obj\Debug\Main.exe
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Main\obj\Debug\Main.pdb

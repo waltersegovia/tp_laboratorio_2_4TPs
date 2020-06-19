@@ -1,0 +1,100 @@
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\documents\visual studio 2012\Projects\TP-1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\Desktop\Tp´s 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.Cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.exe
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\bin\Debug\Entidades.dll
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\bin\Debug\Entidades.pdb
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.exe
+F:\Segundo Cuatrimestre 2018\TPs 2018\TP-1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\UTN\Primer Cuatrimestre 2019\tp_laboratorio_2-master\RecuperatoriosTP\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\Tp´s 2019\Segundo Cuatrimestre 2019\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\bin\Debug\Entidades.dll
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+G:\Primer Cuatrimestre 2020\TPs 2020\Primer Cuatrimestre 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\wseg\Desktop\TP´s 2020\TP1\MiCalculadora\obj\Debug\MiCalculadora.pdb

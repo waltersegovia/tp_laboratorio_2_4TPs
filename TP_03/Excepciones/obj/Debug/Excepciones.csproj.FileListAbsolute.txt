@@ -1,0 +1,6 @@
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\Excepciones\obj\Debug\Excepciones.pdb

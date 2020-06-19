@@ -1,0 +1,9 @@
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\wseg\Desktop\TP´s 2020\TP_03\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
