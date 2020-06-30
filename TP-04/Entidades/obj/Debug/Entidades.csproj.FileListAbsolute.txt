@@ -1,6 +1,0 @@
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\bin\Debug\Entidades.dll
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\bin\Debug\Entidades.pdb
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\obj\Debug\Entidades.dll
-C:\Users\wseg\Desktop\TP´s 2020\TP-04\Entidades\obj\Debug\Entidades.pdb
